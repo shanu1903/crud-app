@@ -1,0 +1,21 @@
+body,html{
+	margin: 0;
+	height: 100%;
+}
+
+body{
+	background-image: url(../image/background.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+
+}
+
+#login-form{
+	margin-top: 20%;
+}
+
+label{
+	color: red;
+}
